@@ -1,1 +1,3 @@
 # preinstall
+
+aliyunos preinstall
